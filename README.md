@@ -11,3 +11,4 @@ THINGS I LEARNED:
 - How to make a skateBoard
 - T-Shirt printing
 - Vinyl Cutting
+- Metal Casting / Forging
